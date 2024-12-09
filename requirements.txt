@@ -1,0 +1,6 @@
+# Contains information about all the packages that needs to be installed.
+pandas
+numpy
+seaborn
+
+-e .
